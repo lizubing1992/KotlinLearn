@@ -1,4 +1,4 @@
-package com.lizubing.kotlinlearn.ui
+package com.lizubing.kotlinlearn.ui.activity
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle

@@ -1,4 +1,4 @@
-package com.lizubing.kotlinlearn.ui
+package com.lizubing.kotlinlearn.ui.activity
 
 import android.Manifest
 import android.content.Intent
